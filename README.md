@@ -9,19 +9,11 @@ Open PhpMyAdmin:http://localhost:80/phpmyadmin
 Create Database tms
 Import database tms.sql (available inside the zip package)
 Open Your browser put inside browser “http://localhost/tms”
-Login Details for admin : 
 
+Login Details for admin : 
 Open Your browser put inside browser “http://localhost/tms/admin”
 
 Username: admin
-
-Password: lohi123
-Login Details for user: 
-
-Open Your browser put inside browser “http://localhost/tms/”
-
-Username: lohithlohi@gmail.com
-Password:lohi123
 
 ## My Role
 - Designed and managed the project database using SQL
